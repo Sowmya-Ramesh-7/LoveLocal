@@ -1,6 +1,6 @@
 # LoveLocal BuildHer Internship Program Interview Tasks
 
-Code Explanation is Included in the form of Documentation Comment
+Code Explanation is Included in the form of Documentation Comment.
 Output is provided within the Description of commit message
 
 ## Questions Picked
